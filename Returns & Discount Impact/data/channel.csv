@@ -1,0 +1,7 @@
+ChannelID,SalesChannel,ChannelGroup,ChannelType
+1,Web,Online,Desktop
+2,Mobile App,Online,Mobile
+3,Marketplace,Online,Mixed
+4,Retail Store,Offline,In-store
+5,Call Center,Offline,Phone
+6,B2B,Direct,Mixed
